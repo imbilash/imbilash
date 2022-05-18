@@ -4,13 +4,13 @@
 
 
 <a href="https://www.linkedin.com/in/imbilash/">
-  <img align="left" alt="Monesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Bilash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/imbilash">
   <img align="left" alt="Bilash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCSZTnlwOGvPzXnfXOYyWNrw">
-  <img align="left" alt="TechSciDev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UC7oPMH3xRqcYCHwckZr0hLw">
+  <img align="left" alt="TechSoftDev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -20,11 +20,10 @@
 
 - 🔭 I’m currently working in []().
 - 🌱 I’m currently learning more about Full Stack Development using Spring Framework.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCSZTnlwOGvPzXnfXOYyWNrw).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC7oPMH3xRqcYCHwckZr0hLw).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @imbilash](https://www.linkedin.com/in/imbilash/) ,
-- [Youtube - @TheSciDev](https://www.youtube.com/channel/UCSZTnlwOGvPzXnfXOYyWNrw)
+- 📫 How to reach me: [Linkedin - @imbilash](https://www.linkedin.com/in/imbilash/),[Youtube - @TheSciDev](https://www.youtube.com/channel/UC7oPMH3xRqcYCHwckZr0hLw)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
