@@ -1,6 +1,6 @@
 ## Hola, I'm [Bilash Paul](https://imbilash.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="bilashpaul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imbilash&label=Views&color=blue&style=plastic" alt="bilashpaul" /> </p>
 
 
 <a href="https://www.linkedin.com/in/imbilash/">
