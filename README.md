@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC7oPMH3xRqcYCHwckZr0hLw).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @imbilash](https://www.linkedin.com/in/imbilash/),[Youtube - @TheSciDev](https://www.youtube.com/channel/UC7oPMH3xRqcYCHwckZr0hLw)
+- 📫 How to reach me: [Linkedin - @imbilash](https://www.linkedin.com/in/imbilash/),[Youtube - @TheSoftDev](https://www.youtube.com/channel/UC7oPMH3xRqcYCHwckZr0hLw)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
