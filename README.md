@@ -1,4 +1,4 @@
-## Hola, I'm [Bilash Paul](https://imbilash.github.io/) 👋
+## Hello, I'm [Bilash Paul](https://imbilash.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbilash&label=Views&color=blue&style=plastic" alt="bilashpaul" /> </p>
 
