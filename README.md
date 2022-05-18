@@ -29,7 +29,7 @@
 
 [![Linkedin: imbilash](https://img.shields.io/badge/-imbilash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imbilash/)](https://www.linkedin.com/in/imbilash/)
 [![GitHub BilashPaul](https://img.shields.io/github/followers/imbilash?label=follow&style=social)](https://github.com/imbilash)
-[![website](https://img.shields.io/badge/PortfolioWebsite-imbilash.live-2648ff?style=flat-square&logo=google-chrome)](https://imbilash.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-imbilash.com-2648ff?style=flat-square&logo=google-chrome)](https://imbilash.github.io/)
 
 
 **Languages and Tools:**  
